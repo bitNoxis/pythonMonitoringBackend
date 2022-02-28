@@ -79,4 +79,4 @@ def waitFor(timer):
        
 main()
 
-#Sinnvoller Kommentar
+#Sinnvoller Kommentar tqwe12313123

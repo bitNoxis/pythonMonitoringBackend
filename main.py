@@ -78,3 +78,5 @@ def waitFor(timer):
         print(x)
        
 main()
+
+#Sinnvoller Kommentar
